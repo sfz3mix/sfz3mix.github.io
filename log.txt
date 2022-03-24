@@ -1,0 +1,224 @@
+﻿=======================================================================================================
+Street Fighter Zero 3 Mix (by Zero800)
+=======================================================================================================
+0.07
+Bison can upgrade to Bison+
+Several small fixes 
+First Attack increases Power Lv +1
+Fixes for Sigle Player mode
+Ryu with red headband
+Announcement when using Life Recovery
+If used Continue does not reset the victory counter
+Added new Game Speed in Settings (Turbo 0, Turbo 1.5, Turbo 3) 
+-------------------------------------------------------------------------------------------------------
+0.06j
+Fix GuardBar / Guard Crush values
+-------------------------------------------------------------------------------------------------------
+0.06i
+Stage 09 = (Balrog, Vega, Sagat)
+Brazilian Portuguese translation completed
+-------------------------------------------------------------------------------------------------------
+0.06h
+Stage 09 = (Balrog, Vega, Sagat)
+Stage 10 = Shin Bison x3 
+Adjustments in Ryu (Shin Shouryuuken)
+Adjustments in Balrog (Gigaton Blow)
+-------------------------------------------------------------------------------------------------------
+0.06g
+More fixes for No air Recover mode
+-------------------------------------------------------------------------------------------------------
+0.06f
+Fixes for (No Air Recover) mode
+Addition of new palettes
+-------------------------------------------------------------------------------------------------------
+0.06e
+Cancellation of (Down + Strong Kick) with Dan, Sakura, Chun-Li
+Ryu (Seichuu Nidan Tsuki) cancelable
+Sakura (Hadouken) with no distance limit
+Juni and Juli portrait on the Selection and Versus screen 
+-------------------------------------------------------------------------------------------------------
+0.06d
+Juni correction (Hooligan Combination) 
+Blanka (Rolling Attacks) strong knock down
+Finish screens with new colors
+When using Continue the CPU does not change teams
+Sakura back + strong punch = V-ISM
+Cancellation of (Down + Strong Kick) with Ryu, Ken, Akuma
+-------------------------------------------------------------------------------------------------------
+0.06c
+Special corrections - Juni (Psychic Knife) 
+Special corrections - Juli (Super Psycho Shot) 
+Ken all Shoryukens with fire
+Bison attacks with blue fire hand
+-------------------------------------------------------------------------------------------------------
+0.06b
+Low Akuma + medium kick can be done on any jump
+Added lv3 Dhalsim (Yoga Tempest)
+Custom Combo can no longer be activated during attacks
+Air Throw kept only for:
+Ken, Charlie, Chun-Li, Adon, Guy, Rose, Bison, Rolento, 
+Zangief, Cammy, Blanka, Cody, Vega, Karin, Juli, Juni
+Added moves of Cammy from V-ISM 
+Added special - Juni (Psychic Knife) 
+Added special - Juli (Super Psycho Shot) 
+On selection screen if the previous winner holds all 3 punches, no need to select again
+Finish screen with different palettes for Lv 1,Lv 2, Lv 3
+-------------------------------------------------------------------------------------------------------
+0.06a
+More fixes on mode without Air Recovery
+Removed Juni and July's silhouette from their Versus pictures
+Disabled Karin (Arakuma Inashi) during Custom Combo
+-------------------------------------------------------------------------------------------------------
+0.06
+Fixes in mode without Air Recovery
+Holding the 3 punches before the fight invert the Air Recovery choice
+CPU air defense fixes
+Corrections to Single 1x1 mode
+Removed bug of giving Alpha Counter when in Guard Break
+Alpha Counter if done holding down is the same as in V mode
+-------------------------------------------------------------------------------------------------------
+0.05g
+Longer charging time for Boxer than others
+Increased Bison's hard kick collision box  
+Air Recovery selection after choosing character
+-------------------------------------------------------------------------------------------------------
+0.05f
+Testing with different Juggles / Air Recovery rules
+-------------------------------------------------------------------------------------------------------
+0.05e
+Fixed Chun Li's image in the Ranking screen
+Disabling Extra Hits in the settings makes it look more like Alpha 2
+Custom combo of the V-ISM can be done using 3 specials with 1/4 life (flashing red) 
+-------------------------------------------------------------------------------------------------------
+0.05d
+Balrog's portrait on the Selection and Versus screen 
+Akuma's Hadoukens like SFA1
+Alpha Counter no longer needs to hold forward, only the 2 buttons of equal strength are sufficient 
+-------------------------------------------------------------------------------------------------------
+0.05c
+Ryu always gets the Shin Shoryuken right
+Just Defenced can no longer be activated after a normal defense
+-------------------------------------------------------------------------------------------------------
+0.05b
+Fixed bug of holding start before fight starts
+Added Balrog winquotes from PSX
+Bison (Psycho Shot) command ↓↙← punch
+Bison (Psycho Crusher) included in Z mode and can be done in the air
+Ryu → + HP = V-ISM 
+Added Mix logo 
+-------------------------------------------------------------------------------------------------------
+0.05a
+Fixed bug with quick press before the Versus screen
+-------------------------------------------------------------------------------------------------------
+0.05
+Life no longer blinks after defeat
+Randomized the phrases of victory to be used all 8
+In the selection screen, if you hold START and move the color changes in real time, 
+If it is the default color, the old rule applies, each button selects a color
+Display the names of the 3 chars on the selection screen 
+Versus screen with all 3 characters
+Removed Survival mode that was causing problems 
+-------------------------------------------------------------------------------------------------------
+0.04a
+Fixed problems that appeared in some sprites after cleaning
+Removed unnecessary Debug text to save more programming space
+Fixed palette changes in moves (Birdie, Blanka, Juni celebrating with Bison) 
+Shin Bison being last CPU char for everyone
+In the configuration it's possible to change language to Portuguese (completed only until Charlie)
+-------------------------------------------------------------------------------------------------------
+0.03f
+All Provocations excluding Dan randomly take 4 to 10 GuardBar from the opponent
+Completed cleaning up Chun Li Alpha and Sodom graphics with sword 
+-------------------------------------------------------------------------------------------------------
+0.03e
+Re-positioning of First Attack, Hits, Finishs, etc ads 
+Text about char swaps and getting more life back instead of KnockOut 
+-------------------------------------------------------------------------------------------------------
+0.03d
+Added sound when choosing Char 1 and Char 2 in time mode
+Fixed p2 lifebar addon palette 
+Fixed Draw game with the last 2 characters running out of time
+Forced the new Life and Power bars for the other ISM 
+Single Player no longer refills life after winning  
+Fixed bug in Birdie's grab
+Mika (Flying Peach)↓↘→ + punch, (Shooting Peach) ↓↘→ + kick to avoid conflict with the 180 
+New Charlie's Blow hold low up and punch or hold back up + front and punch (Sonic Boom vertical)
+-------------------------------------------------------------------------------------------------------
+0.03c
+Adon (Jaguar Kick) = ↓↘→ on kick
+Fixed Alpha Counter bug in Just Defenced
+-------------------------------------------------------------------------------------------------------
+0.03b
+Cannot convert Special with full life
+Fixed Double KO for Time mode
+Slightly reduced the gain of special when attacking 
+-------------------------------------------------------------------------------------------------------
+0.03a
+Final Bison Boss starts with 3 specials
+Team Play mode by default and can be changed in the settings 
+Holding start before starting a fight changes the current character with the next one
+With 3 chars Hold start and up before starting the fight changes the current char with the third one
+Holding down + Strong Kick at the end of the fight converts 3 specials into +life recovery
+Holding down + Medium Kick at the end of the fight converts 2 specials into +life recovery
+Holding down + Weak Kick at the end of the fight converts 1 special to +life recovery
+-------------------------------------------------------------------------------------------------------
+0.02c
+Random stages for Player vs Player
+Increased character selection time
+Removed specials that don't work from Juni and Juli
+-------------------------------------------------------------------------------------------------------
+0.02b
+Just Defeced fixes for player
+Vega's claw does not add to the counter if defense in Just Defeced
+-------------------------------------------------------------------------------------------------------
+0.02a
+Added Just Defeced for CPU
+-------------------------------------------------------------------------------------------------------
+0.01g
+Balrog (Buffalo Headbutt) in all modes
+Vega (Scarlet Terror) in all modes with shoryuken command on kick
+-------------------------------------------------------------------------------------------------------
+0.01f
+Removed air defense
+Added Just Defeced on the ground and in the air
+-------------------------------------------------------------------------------------------------------
+0.01e
+Ken (Shinryuken) lv 1 with collision equal to lv 2
+Removed all Chun Li graphics from Alpha (free up + space for new designs)
+Removed all Sodom graphics with sword
+Spinning Bird Kick in all ISM with ↓↘→ kick command 
+Fixed Blanka's Shock effect palette to work with the new colors
+-------------------------------------------------------------------------------------------------------
+0.01d
+Glitch fix Chun-Li (Kikosho) lv 3
+Removed damage reduction for distant projectiles
+Chun Li (Kikouken) with no distance limit
+-------------------------------------------------------------------------------------------------------
+0.01c
+Versus mode (2 players can always choose)
+Supers Level 3 A-ISM with X-ISM effect 	
+Guard Bar does not reduce maximum size after breaking or Alpha Counter
+Selection of any color of the character regardless of ISM
+Hadoukens with Shinku HadouKen effects on hands
+-------------------------------------------------------------------------------------------------------
+0.01b
+Fixed crash bug after presentation
+-------------------------------------------------------------------------------------------------------
+0.01a
+Round start with empty special meter
+New selection screen with secret chars
+Removed Cruch Cancel
+Removed Cruch Counter
+Specials with hold command ↙↘↙↑ = ↓↙←↙→   
+All 360 = 180
+All 2x 360 = 2x 180 clockwise
+All ↓↘→ commands are now →↓↘ or ←↓↙
+Command load time with a slightly longer time than half of the original
+Blanka's Shock = Shoryuken or pressing fast 
+Akuma's Hadouken Special = 2x ↓↙←
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
