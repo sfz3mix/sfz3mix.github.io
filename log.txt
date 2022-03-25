@@ -19,7 +19,6 @@ Stage 09 = (Balrog, Vega, Sagat)
 Brazilian Portuguese translation completed
 -------------------------------------------------------------------------------------------------------
 0.06h
-Stage 09 = (Balrog, Vega, Sagat)
 Stage 10 = Shin Bison x3 
 Adjustments in Ryu (Shin Shouryuuken)
 Adjustments in Balrog (Gigaton Blow)
