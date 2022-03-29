@@ -1,5 +1,11 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
+=======================================================================================================
+0.08
+Added CPS1 Chain. Light, Light + (Medium or Heavy) / Combo examples in: https://youtu.be/WNuhfLpCUeI
+Fixed minor bugs after finishing the game
+Fixes for Team mode (DoubleKo, Time Over - Draw Game)
+Cancellation of (Down + Medium Kick) with Cammy
 ======================================================================================================
 0.07b
 Fix Bison+ Upgrade in Single mode
