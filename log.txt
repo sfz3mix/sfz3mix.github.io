@@ -1,6 +1,20 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
 =======================================================================================================
+0.09
+CPS1 Chain without buttons combination
+Just Defence no blinking black screen
+Turbo 2 as default Speed in Configuration
+Short jump by quickly pressing and releasing the directional
+Zanguief moves recognize 360 and 720, along with the new commands (360 or hcb)
+Vega (Scarlet Mirage) 2x qcb + kick
+Vega (Red Impact) 2x qcb + punch
+Fixed Akuma (blue hadouken) damage at close range
+Fixed Balrog (Gigaton Blow) made with lk, mk
+Fixed Cody (Criminal Upper)
+Cancellation of (Down + Medium Kick) with Honda
+Re-colored victory icons
+======================================================================================================
 0.08
 Added CPS1 Chain. Light, Light + (Medium or Heavy) / Combo examples in: https://youtu.be/WNuhfLpCUeI
 Fixed minor bugs after finishing the game
