@@ -1,14 +1,33 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
 =======================================================================================================
+0.10
+Custom Combo can be finished with Supers Lv1, Lv2
+Added CPS1 Chain to all chars 
+Cancellation of (Down + Medium Kick) with all chars (back + down for some)
+Version number appearing also in the Versus Screen
+Invert the Air Recovery choice holding (HP + HK) before the fight 
+Fixed Full Life bug in Time Over 
+New Color (Blanka, Mika, Charlie, Cammy, Birdie) 
+Fixed Guy combos (outside the CPS1 Chain rules) 
+Added Gyu X-Ism Combo
+Juni (Psychic Knife) knife hit when go up and increased damage
+Adon (Rising Jaguar) increased distance
+Adon air down + mk (Jaguar Kick) like X-Ism
+Dan (Gadouken) increased distance
+Dan (Dankuukyaku) HK first hit more fast 
+Dan (Koryuken) slightly increased distance 
+Hcf + Punch, changed to qcf + Punch (Rose, Chun Li)
+Hcb + Kick, changed to qcb + Kick (Juni, Juli)
+======================================================================================================
 0.09
 CPS1 Chain without buttons combination
 Just Defence no blinking black screen
 Turbo 2 as default Speed in Configuration
 Short jump by quickly pressing and releasing the directional
 Zanguief moves recognize 360 and 720, along with the new commands (360 or hcb)
-Vega (Scarlet Mirage) 2x qcb + kick
-Vega (Red Impact) 2x qcb + punch
+Vega (Scarlet Mirage) 2x qcb + Kick
+Vega (Red Impact) 2x qcb + Punch
 Fixed Akuma (blue hadouken) damage at close range
 Fixed Balrog (Gigaton Blow) made with lk, mk
 Fixed Cody (Criminal Upper)
@@ -92,7 +111,6 @@ Finish screen with different palettes for Lv 1,Lv 2, Lv 3
 0.06a
 More fixes on mode without Air Recovery
 Removed Juni and July's silhouette from their Versus pictures
-Disabled Karin (Arakuma Inashi) during Custom Combo
 -------------------------------------------------------------------------------------------------------
 0.06
 Fixes in mode without Air Recovery
