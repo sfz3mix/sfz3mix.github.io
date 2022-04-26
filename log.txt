@@ -10,7 +10,7 @@ Invert the Air Recovery choice holding (HP + HK) before the fight
 Fixed Full Life bug in Time Over 
 New Color (Blanka, Mika, Charlie, Cammy, Birdie) 
 Fixed Guy combos (outside the CPS1 Chain rules) 
-Added Gyu X-Ism Combo
+Added Guy X-Ism Combo
 Juni (Psychic Knife) knife hit when go up and increased damage
 Adon (Rising Jaguar) increased distance
 Adon air down + mk (Jaguar Kick) like X-Ism
@@ -96,7 +96,7 @@ Ken all Shoryukens with fire
 Bison attacks with blue fire hand
 -------------------------------------------------------------------------------------------------------
 0.06b
-Low Akuma + medium kick can be done on any jump
+Akuma (air down + medium) kick can be done on any jump
 Added lv3 Dhalsim (Yoga Tempest)
 Custom Combo can no longer be activated during attacks
 Air Throw kept only for:
