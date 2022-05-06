@@ -1,6 +1,17 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
 =======================================================================================================
+0.10e
+Fix Guy X-Ism Combo in Custom Combo 
+Fix Rolento infinites Spike Rod in Time Over
+Fixed Bison+ (Hyper Psycho Crusher) 
+Added V-Ism Charlie Normals (hold back + Punches or Kicks)
+Minimum height for Akuma (air down + medium)
+Zero Counter 1,5 lv bar (half bar)
+Custom Combo can be finished on the Super on which the Power Level is (lv3, lv2, lv1)  
+Gen can upgrade to Gen+ (1/2 level bar)
+Added new Super for Cody (Yoke) - automatic dodge, until the round ends 
+======================================================================================================
 0.10
 Custom Combo can be finished with Supers Lv1, Lv2
 Added CPS1 Chain to all chars 
@@ -47,7 +58,7 @@ Fix Bison+ Upgrade in Single mode
 Fix Bison+ Upgrade
 ======================================================================================================
 0.07
-Bison can upgrade to Bison+
+Bison can Upgrade to Bison+
 Several small fixes 
 First Attack increases Power Lv +1
 Fixes for Sigle Player mode
@@ -90,8 +101,8 @@ Sakura back + strong punch = V-ISM
 Cancellation of (Down + Strong Kick) with Ryu, Ken, Akuma
 -------------------------------------------------------------------------------------------------------
 0.06c
-Special corrections - Juni (Psychic Knife) 
-Special corrections - Juli (Super Psycho Shot) 
+Super corrections - Juni (Psychic Knife) 
+Super corrections - Juli (Super Psycho Shot) 
 Ken all Shoryukens with fire
 Bison attacks with blue fire hand
 -------------------------------------------------------------------------------------------------------
@@ -103,8 +114,8 @@ Air Throw kept only for:
 Ken, Charlie, Chun-Li, Adon, Guy, Rose, Bison, Rolento, 
 Zangief, Cammy, Blanka, Cody, Vega, Karin, Juli, Juni
 Added moves of Cammy from V-ISM 
-Added special - Juni (Psychic Knife) 
-Added special - Juli (Super Psycho Shot) 
+Added Super - Juni (Psychic Knife) 
+Added Super - Juli (Super Psycho Shot) 
 On selection screen if the previous winner holds all 3 punches, no need to select again
 Finish screen with different palettes for Lv 1,Lv 2, Lv 3
 -------------------------------------------------------------------------------------------------------
@@ -131,7 +142,7 @@ Testing with different Juggles / Air Recovery rules
 0.05e
 Fixed Chun Li's image in the Ranking screen
 Disabling Extra Hits in the settings makes it look more like Alpha 2
-Custom combo of the V-ISM can be done using 3 specials with 1/4 life (flashing red) 
+Custom combo of the V-ISM can be done using 3 Supers with 1/4 life (flashing red) 
 -------------------------------------------------------------------------------------------------------
 0.05d
 Balrog's portrait on the Selection and Versus screen 
@@ -192,23 +203,23 @@ Adon (Jaguar Kick) = ↓↘→ on kick
 Fixed Alpha Counter bug in Just Defenced
 -------------------------------------------------------------------------------------------------------
 0.03b
-Cannot convert Special with full life
+Cannot convert Supers with full life
 Fixed Double KO for Time mode
-Slightly reduced the gain of special when attacking 
+Slightly reduced the gain of Super when attacking 
 -------------------------------------------------------------------------------------------------------
 0.03a
-Final Bison Boss starts with 3 specials
+Final Bison Boss starts with 3 Supers
 Team Play mode by default and can be changed in the settings 
 Holding start before starting a fight changes the current character with the next one
 With 3 chars Hold start and up before starting the fight changes the current char with the third one
-Holding down + Strong Kick at the end of the fight converts 3 specials into +life recovery
-Holding down + Medium Kick at the end of the fight converts 2 specials into +life recovery
-Holding down + Weak Kick at the end of the fight converts 1 special to +life recovery
+Holding down + Strong Kick at the end of the fight converts 3 Supers into +life recovery
+Holding down + Medium Kick at the end of the fight converts 2 Supers into +life recovery
+Holding down + Weak Kick at the end of the fight converts 1 Super to +life recovery
 -------------------------------------------------------------------------------------------------------
 0.02c
 Random stages for Player vs Player
 Increased character selection time
-Removed specials that don't work from Juni and Juli
+Removed Supers that don't work from Juni and Juli
 -------------------------------------------------------------------------------------------------------
 0.02b
 Just Defeced fixes for player
@@ -248,17 +259,17 @@ Hadoukens with Shinku HadouKen effects on hands
 Fixed crash bug after presentation
 -------------------------------------------------------------------------------------------------------
 0.01a
-Round start with empty special meter
+Round start with empty Super meter
 New selection screen with secret chars
 Removed Cruch Cancel
 Removed Cruch Counter
-Specials with hold command ↙↘↙↑ = ↓↙←↙→   
+Supers with hold command ↙↘↙↑ = ↓↙←↙→   
 All 360 = 180
 All 2x 360 = 2x 180 clockwise
 All ↓↘→ commands are now →↓↘ or ←↓↙
 Command load time with a slightly longer time than half of the original
 Blanka's Shock = Shoryuken or pressing fast 
-Akuma's Hadouken Special = 2x ↓↙←
+Akuma's Hadouken Super = 2x ↓↙←
 -------------------------------------------------------------------------------------------------------
 
 
