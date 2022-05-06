@@ -11,6 +11,7 @@ Zero Counter 1,5 lv bar (half bar)
 Custom Combo can be finished on the Super on which the Power Level is (lv3, lv2, lv1)  
 Gen can upgrade to Gen+ (1/2 level bar)
 Added new Super for Cody (Yoke) - automatic dodge, until the round ends 
+Free Select 2 as default Speed in Configuration (Turbo 1 - Turbo 2)
 ======================================================================================================
 0.10
 Custom Combo can be finished with Supers Lv1, Lv2
