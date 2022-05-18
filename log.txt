@@ -1,6 +1,13 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
 =======================================================================================================
+0.12
+Save game speed selected
+Game resets when it crashes
+Select Screen does not change palette 
+Max Stun Points + 4 (all chars) 
+Sodom Background X-ISM theme as default
+=======================================================================================================
 0.11
 Fix Guy X-Ism Combo in Custom Combo 
 Fix Rolento infinites Spike Rod in Time Over
