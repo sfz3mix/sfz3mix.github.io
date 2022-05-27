@@ -1,6 +1,11 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
 =======================================================================================================
+0.13
+Included Sakura A2 theme song using A3 instruments
+In Team mode, music is switched to the loser of the previous round if they are full of Life 
+Blood Sparks for Vega's claw
+=======================================================================================================
 0.12
 Save game speed selected
 Game resets when it crashes
