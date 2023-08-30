@@ -1,5 +1,99 @@
 ﻿=======================================================================================================
 Street Fighter Zero 3 Mix (by Zero800)
+
+=======================================================================================================
+0.20
+
+Creation of a new Driver (CPS2Turbo) to be able to expand the rom
+Increase the size of the Program, Graphics and Sounds in the rom
+Increased resolution from 384x224 to 416x234
+Increased lifebar and powerbar to adjust to the new resolution 
+Decreased Guard recovery time
+Damage % calculation instead of catchphrases (Very Good!!)
+New Just Defence sound
+Ryu's background recolored
+New movement (super jump, roll, escape, back step)
+CPU programming to use the new moves
+After Guard Crush max guardbar decreases permanently 
+Guard Recovery (at the end of the round by holding down + medium punch you can use 2 powerbars to 
+recover 1 MaxGuardBar)
+Ground Recovery can also be done using the lp+lk command
+Super Cancel for all projectiles 
+Custom Combos 1,2,3 (mp+hk, mk+hp, hp+hk) 
+Daigo Mode (mp+mk) Auto Just Defence until power runs out
+Counter status when using Low Jump 
+White screen after winner's last hit
+Darker palettes for all characters
+Supers' shadows with different palettes
+Fire damage palettes standardized
+Fixed problems during Time Over
+
+Supers Command Charlie, Chun.... hcb, hcf
+Ryu (Shinkuu Hadouken) can be held
+Adon (Jaguar Tooth) = hcb
+Rolento (High Jump) = 3 kicks
+Akuma (Shakunetsu Hadouken) = hcb
+Zanguief new (Running SPD)
+Dhalsim (Yoga Flame) = hcb + p, (Yoga Blast) = hcb + k
+Charlie (Knee Bazooka) press any kick while running
+Rose (Soul Spark) pushes less in medium and strong
+Balrog new attacks (punches and kicks) 
+Balrog win portrait
+Juli win portrait
+Juni win portrait
+
+Optional custom music added.
+The songs will only be played if the samples folder contains 
+a .wav with the same ID as the song to be played.
+
+Songs saved in Audacity (.wav, Unsigned 8-bit PCM - mono)
+
+09L = Ryu left side 
+09R = Ryu right side
+
+0A L/R = Ken
+0B L/R = Akuma 
+0C L/R = Charlie
+0D L/R = Chun-Li
+0E L/R = Adon
+0f L/R = Sodom 
+10 L/R = Guy        
+11 L/R = Birdie
+12 L/R = Rose
+13 L/R = Bison
+14 L/R = Sagat 
+15 L/R = Dan
+16 L/R = Sakura
+17 L/R = Rolento
+18 L/R = Dhalsim
+19 L/R = Zanguief
+1A L/R = Gen
+1E L/R = Balrog
+1F L/R = Cammy
+21 L/R = Honda
+22 L/R = Blanka
+23 L/R = Mika
+24 L/R = Cody
+25 L/R = Claw
+26 L/R = Karin
+27 L/R = Juli
+27 L/R = Juni
+				
+-------------------------------------------------------------------------------------------------------
+optional DONATIONS:
+
+Paypal: https://www.paypal.com/donate/?hosted_button_id=CY6XXNF75UNN8
+
+Pix: email zero800@outlook.com
+=======================================================================================================
+0.13e 
+Enhanced command recognition Rose (Soul Throw) 
+Ryu (Shinkuu Hadouken) increases 1 hit if charged to the end
+Ryu (Hadouken, Shoryuken) Super Cancel
+Ken (Hadouken, Shoryuken) Super Cancel
+Akuma (Hadouken, Shoryuken, Air Hadouken, Fire Hadouken) Super Cancel
+Charlie (Sonic Boom, Somersault Shell) Super Cancel
+Chun Li (Hyakuretsu Kyaku, Kikouken, Sen'en Shuu, Tenshoukyaku) Super Cancel
 =======================================================================================================
 0.13
 Included Sakura A2 theme song using A3 instruments
