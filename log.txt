@@ -45,11 +45,12 @@ Juni win portrait
 Optional custom music added.
 The songs will only be played if the samples folder contains 
 a .wav with the same ID as the song to be played.
+The songs can be exchanged for any other .wav 
 
 Songs saved in Audacity (.wav, Unsigned 8-bit PCM - mono)
 
-09L = Ryu left side 
-09R = Ryu right side
+09L.wav = Ryu left side 
+09R.wav = Ryu right side
 
 0A L/R = Ken
 0B L/R = Akuma 
