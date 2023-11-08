@@ -2,6 +2,14 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.22
+
+Added Sakura A2 House background (without removing any original sfa3 background)
+Initial opening removed (after the addition of the new background there were many glitches)
+Fix numbers glitches and Sound in Continue
+Fix Cammy Purple Win Portrait
+
+=======================================================================================================
 0.21
 
 Fix normal cancellations
@@ -32,6 +40,7 @@ Darker palettes for all characters
 Supers' shadows with different palettes
 Fire damage palettes standardized
 Fixed problems during Time Over
+Increased size of battle portraits
 
 Supers Command Charlie, Chun.... hcb, hcf
 Ryu (Shinkuu Hadouken) can be held
