@@ -8,6 +8,7 @@ Added Sakura A2 House background (without removing any original sfa3 background)
 Initial opening removed (after the addition of the new background there were many glitches)
 Fix numbers glitches and Sound in Continue
 Fix Cammy Purple Win Portrait
+Updated Samples file (music for the new background)
 
 =======================================================================================================
 0.21
