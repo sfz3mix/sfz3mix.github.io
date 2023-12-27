@@ -3,7 +3,16 @@ Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
 
-0.22f
+0.23a
+
+Fix Juni (Psychic Knife) 99 hits bug
+Fix Juni battle portrait glitch
+Decreased Daigo mode time
+Increased roll recovery time
+Changed character selection animations
+
+=======================================================================================================
+0.23
 
 Name of roms in HBMAME format
 maincpu.bin -> sfz3mix.p1
@@ -15,8 +24,9 @@ Enabled all cutscenes in mode player vs player
 New cutscenes created 
 Possibility to skip cutscenes by pressing any button
 New Hypers Lv1,Lv2,Lv3 effects
+New Hypers sound effect
 Various small glitches fixed
-Roll Recovery by pressing Roll when falling (invulnerable)
+Roll Recovery by pressing lp+lk or f,df,d + punch when falling (invulnerable)
 Sakura new Escape animation and Back Step
 Dhalsim behaves just like V-ISM with HP / HK up close
 Decreased amount of life recovery when winning
@@ -24,10 +34,11 @@ Fix Sakura A2 House background local name to Japan
 Fix Dan Background glitch 
 Fix Cammy Background glitch 
 Fix percentage damage  
+Samples updated (new Cammy theme, L2E, R2E renamed to L1C, R1C) 
 
 Cutscenes:
-00 Ryu ... vs Ken / *Sagat / *Sakura
-01 Ken ... vs Ryu
+00 Ryu ... vs Ken *(intro 2) / *Sagat / *Sakura
+01 Ken ... vs Ryu *(intro 2)
 02 Akuma ... vs Gen
 03 Charlie ... vs Bison
 04 Chun-Li ... vs Bison / *Vega
@@ -119,36 +130,36 @@ The songs can be exchanged for any other .wav
 
 Songs saved in Audacity (.wav, Unsigned 8-bit PCM - mono)
 
-09L.wav = Ryu left side 
-09R.wav = Ryu right side
+L09.wav = Ryu left side 
+R09.wav = Ryu right side
 
-0A L/R = Ken
-0B L/R = Akuma 
-0C L/R = Charlie
-0D L/R = Chun-Li
-0E L/R = Adon
-0f L/R = Sodom 
-10 L/R = Guy        
-11 L/R = Birdie
-12 L/R = Rose
-13 L/R = Bison
-14 L/R = Sagat 
-15 L/R = Dan
-16 L/R = Sakura
-17 L/R = Rolento
-18 L/R = Dhalsim
-19 L/R = Zanguief
-1A L/R = Gen
-1E L/R = Balrog
-1F L/R = Cammy
-21 L/R = Honda
-22 L/R = Blanka
-23 L/R = Mika
-24 L/R = Cody
-25 L/R = Claw
-26 L/R = Karin
-27 L/R = Juli
-27 L/R = Juni
+L/R 0A = Ken
+L/R 0B = Akuma 
+L/R 0C = Charlie
+L/R 0D = Chun-Li
+L/R 0E = Adon
+L/R 0f = Sodom 
+L/R 10 = Guy        
+L/R 11 = Birdie
+L/R 12 = Rose
+L/R 13 = Bison
+L/R 14 = Sagat 
+L/R 15 = Dan
+L/R 16 = Sakura
+L/R 17 = Rolento
+L/R 18 = Dhalsim
+L/R 19 = Zanguief
+L/R 1A = Gen
+L/R 1E = Balrog
+L/R 1F = Cammy
+L/R 21 = Honda
+L/R 22 = Blanka
+L/R 23 = Mika
+L/R 24 = Cody
+L/R 25 = Claw
+L/R 26 = Karin
+L/R 27 = Juli
+L/R 27 = Juni
 				
 -------------------------------------------------------------------------------------------------------
 optional DONATIONS:
