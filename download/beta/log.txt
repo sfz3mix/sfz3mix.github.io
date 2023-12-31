@@ -3,10 +3,11 @@ Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
 
-0.23a
+0.23b
 
 Fix Juni (Psychic Knife) 99 hits bug
 Fix Juni battle portrait glitch
+Fix Sakura Win Portrait
 Decreased Daigo mode time
 Increased roll recovery time
 Changed character selection animations
