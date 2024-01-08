@@ -2,8 +2,13 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.25
 
-0.23e
+Fix Reversal SPAM message
+Fix roll recovery command
+
+=======================================================================================================
+0.24
 
 Changed character selection animations
 Priority for roll / escape before command moves
