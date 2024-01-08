@@ -2,7 +2,7 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.25
+0.24a
 
 Fix Reversal SPAM message
 Fix roll recovery command
