@@ -2,10 +2,23 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.24a
+0.25a
+
+Fixed roll and escape not being immune to grabs
+Fixed Ken and Akuma graphics in escape
+
+=======================================================================================================
+0.25
 
 Fix Reversal SPAM message
 Fix roll recovery command
+Zanguief (Banishing Flat) increase in distance
+Zanguief (Banishing Flat) Super Cancel
+Command - Charlie (Somersault Justice) 2x hcb + k 
+Command - Chun-Li (Hazan Tenshoukyaku) 2x hcb + k 
+Command - Vega (Flying Barcelona Special) 2x hcb + k 
+Command - Blanka (Tropical Hazard) 2x hcb + k 
+ 
 
 =======================================================================================================
 0.24
