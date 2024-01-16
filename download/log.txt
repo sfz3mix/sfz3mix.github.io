@@ -2,6 +2,27 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.26
+
+Fixed roll and escape not being immune to grabs
+Fixed Ken and Akuma graphics in escape
+Increased character selection time
+Rose (Soul Spiral) Super Cancel
+Fix Zanguief Super Cancel if Banishing Flat is defended
+Chalie hitbox increase (Somersault Shell)
+Dan HK hitbox increase
+Blanka (Surprise) has command priority over the other moves    
+Balrog (Dash Ground Upper) changed hit type
+Balrog (Dashs) Super Cancel
+Removed the skull cloud in the Bison Background
+Name of the roms closest to cps2 roms
+sfz3mix.p1 => sz3mx.03  (program)
+sfz3mix.c1 => sz3mx.13m (gfx1)
+sfz3mix.c2 => sz3mx.21m (gfx2)
+sfz3mix.m1 => sz3mx.01  (audiocpu)
+sfz3mix.q1 => sz3mx.11m (qsound)
+
+=======================================================================================================
 0.25
 
 Fix Reversal SPAM message
@@ -53,7 +74,7 @@ Fix Sakura A2 House background local name to Japan
 Fix Dan Background glitch 
 Fix Cammy Background glitch 
 Fix percentage damage  
-Samples updated (new Cammy theme, L2E, R2E renamed to L1C, R1C) 
+Samples updated (new Cammy theme, Sakura samples L2E, R2E renamed to L1C, R1C) 
 
 Cutscenes:
 00 Ryu ... vs Ken *(intro 2) / *Sagat / *Sakura
