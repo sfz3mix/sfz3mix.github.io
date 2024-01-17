@@ -2,7 +2,12 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.25d
+0.26a
+
+During run, you can hold the diagonal to charge blows that need to be held down 
+
+=======================================================================================================
+0.26
 
 Fixed roll and escape not being immune to grabs
 Fixed Ken and Akuma graphics in escape
@@ -14,7 +19,8 @@ Dan HK hitbox increase
 Blanka (Surprise) has command priority over the other moves    
 Balrog (Dash Ground Upper) changed hit type
 Balrog (Dashs) Super Cancel
-Name of the roms closest to cps2
+Removed the skull cloud in the Bison Background
+Name of the roms closest to cps2 roms
 sfz3mix.p1 => sz3mx.03  (program)
 sfz3mix.c1 => sz3mx.13m (gfx1)
 sfz3mix.c2 => sz3mx.21m (gfx2)
