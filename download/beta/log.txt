@@ -2,13 +2,17 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.26b
+0.26c
 
 During run, you can hold the diagonal to charge blows that need to be held down 
 Recognition made easy in tap Quick button (Honda, Chun Li, Blanka, Gen)
 Honda (Hyakuretsu Harite) increase in distance and alternative command f,d,df + p 
 Honda (Hyakuretsu Harite) Super Cancel
 Sodom (Jigoku Scrape) Super Cancel
+Sakura (Shou'ouken) Super Cancel
+Zanguief (Banishing Flat) shortened the animation time a little
+Sodom (Cannon Revenge) increase active animation time
+Sodom (Shiraha Catch) increase active animation time
 
 =======================================================================================================
 0.26
