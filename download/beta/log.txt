@@ -11,8 +11,9 @@ Honda (Hyakuretsu Harite) Super Cancel
 Sodom (Jigoku Scrape) Super Cancel
 Sakura (Shou'ouken) Super Cancel
 Zanguief (Banishing Flat) shortened the animation time a little
-Sodom (Cannon Revenge) increase active animation time
-Sodom (Shiraha Catch) increase active animation time
+Cammy (Cannon Revenge) increase active animation time and less restrictive 
+Sodom (Shiraha Catch) increase active animation time and less restrictive
+
 
 =======================================================================================================
 0.26
