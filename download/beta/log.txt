@@ -18,7 +18,8 @@ White background screen at the end of the match only if it doesn't end in any hy
 Fix Time Over no change music in Team mode
 Adon (Jaguar Kick) change in the type of damage and Super Cancel
 Adon (Jaguar Tooth) change in the type of damage and Super Cancel
-Air Grab added for E.Honda and Sosom
+Adon (Jaguar Revolver) can be run in the air
+Air Grab added for E.Honda and Sodom
 
 =======================================================================================================
 0.26
