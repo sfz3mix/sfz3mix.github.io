@@ -14,6 +14,11 @@ Sakura (Shou'ouken) Super Cancel
 Zanguief (Banishing Flat) shortened the animation time a little
 Cammy (Cannon Revenge) increase active animation time and less restrictive 
 Sodom (Shiraha Catch) increase active animation time and less restrictive
+White background screen at the end of the match only if it doesn't end in any hyper
+Fix Time Over no change music in Team mode
+Adon (Jaguar Kick) change in the type of damage and Super Cancel
+Adon (Jaguar Tooth) change in the type of damage and Super Cancel
+Air Grab added for E.Honda and Sosom
 
 =======================================================================================================
 0.26
