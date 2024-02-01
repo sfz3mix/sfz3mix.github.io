@@ -2,6 +2,26 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.27
+
+During run, you can hold the diagonal to charge blows that need to be held down 
+Recognition made easy in tap Quick button (Honda, Chun Li, Blanka, Gen)
+Improved command recognition in Super Cancel
+Honda (Hyakuretsu Harite) increase in distance and alternative command f,d,df + p 
+Honda (Hyakuretsu Harite) Super Cancel
+Sodom (Jigoku Scrape) Super Cancel
+Sakura (Shou'ouken) Super Cancel
+Zanguief (Banishing Flat) shortened the animation time a little
+Cammy (Cannon Revenge) increase active animation time and less restrictive 
+Sodom (Shiraha Catch) increase active animation time and less restrictive
+White background screen at the end of the match only if it doesn't end in any hyper
+Fix Time Over no change music in Team mode
+Adon (Jaguar Kick) change in the type of damage and Super Cancel
+Adon (Jaguar Tooth) change in the type of damage and Super Cancel
+Adon (Jaguar Revolver) can be run in the air
+Air Grab added for E.Honda and Sodom
+
+=======================================================================================================
 0.26
 
 Fixed roll and escape not being immune to grabs
