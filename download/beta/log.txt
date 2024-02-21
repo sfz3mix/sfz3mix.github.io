@@ -2,7 +2,12 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.26d
+0.27a
+
+Background of Karin and Sakura A3 with transition between morning, afternoon and evening.
+
+=======================================================================================================
+0.27
 
 During run, you can hold the diagonal to charge blows that need to be held down 
 Recognition made easy in tap Quick button (Honda, Chun Li, Blanka, Gen)
