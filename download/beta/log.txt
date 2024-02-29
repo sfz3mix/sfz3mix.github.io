@@ -2,9 +2,15 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.27a
+0.27c
 
 Background of Karin and Sakura A3 with transition between morning, afternoon and evening.
+Cammy (Spiral Arrow) Super Cancel
+Cammy (Axle Spin Knuckle) Super Cancel
+Juni won the (Spiral Arrow)
+Juni (Spiral Arrow) Super Cancel
+Juli (Spiral Arrow) in ground Super Cancel
+Juli (Axle Spin Knuckle) Super Cancel
 
 =======================================================================================================
 0.27
