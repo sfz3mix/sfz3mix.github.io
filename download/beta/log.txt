@@ -2,8 +2,9 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.27c
+0.27d
 
+Fix crouch guard animation
 Background of Karin and Sakura A3 with transition between morning, afternoon and evening.
 Cammy (Spiral Arrow) Super Cancel
 Cammy (Axle Spin Knuckle) Super Cancel
@@ -12,6 +13,7 @@ Juni (Spiral Arrow) Super Cancel
 Juni (Mach Slide) Super Cancel
 Juli (Spiral Arrow) in ground Super Cancel
 Juli (Axle Spin Knuckle) Super Cancel
+Air Grab added for Balrog
 
 =======================================================================================================
 0.27
