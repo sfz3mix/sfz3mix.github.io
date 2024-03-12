@@ -2,7 +2,14 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.27d
+0.28a
+
+No back dash in the corner of the screen
+Akuma background with water
+
+
+=======================================================================================================
+0.28
 
 Fix crouch guard animation
 Background of Karin and Sakura A3 with transition between morning, afternoon and evening.
@@ -14,6 +21,13 @@ Juni (Mach Slide) Super Cancel
 Juli (Spiral Arrow) in ground Super Cancel
 Juli (Axle Spin Knuckle) Super Cancel
 Air Grab added for Balrog
+Increased all chars dizzy points by +4
+Juni / Juli (Ground Assault) can be done in the air and lv1 
+Cammy (Killer Bee Assault) can be done in the air
+Gen (Hyakurenkou) Super Cancel
+Gen (Jasen) Super Cancel
+Bison (Double Knee Press) Super Cancel
+Sagat (Tiger Crush) 2 hits + Super Cancel
 
 =======================================================================================================
 0.27
