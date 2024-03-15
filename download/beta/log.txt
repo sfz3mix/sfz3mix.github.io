@@ -5,7 +5,7 @@ Street Fighter Zero 3 Mix (by Zero800)
 0.28a
 
 No back dash in the corner of the screen
-Akuma background with water
+Akuma background with water and 3 palettes
 
 
 =======================================================================================================
