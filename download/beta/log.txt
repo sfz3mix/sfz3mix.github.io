@@ -2,11 +2,37 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.28a
+0.28d
 
 No back dash in the corner of the screen
 Akuma background with water and 3 palettes
-
+Chun-Li background with 3 palettes
+Fix trees in Chun-Li background
+CPU Bison use X old psycho crush
+Vega (Rolling Crystal Flash) Super Cancel
+Vega (Flying Barcelona Special) can be done in the air
+Vega (Izuna Drop) can be done in the air
+Vega (Kabe Hari Tsuki Special) can be done in the air
+Blanka (Tropical Hazard) can be done in the air
+Blanka (Backstep Rolling) Super Cancel
+Blanka (Rolling Attack) Super Cancel if hit enemy
+Blanka (Vertical Rolling) Super Cancel if hit enemy 
+Karin (Mujin Kyaku) Super Cancel
+Karin (Ressen Chou) Super Cancel
+Karin (Ressen Ha) Super Cancel
+Karin (Ressen Ha) command qcf + K
+Guy (Houzantou) Super Cancel
+Guy (Hayagake: Kubikari) Super Cancel
+Mika (Double Smash) new movimenet
+Mika (Double Smash) Super Cancel
+Rolento (Patriot Circle) Super Cancel
+Akuma lv3 super fire ball and super air fire ball
+Ryu (fire hadouken) replaced by (X hadouken)
+Ken (Shouryuu Reppa) increased the distance a little
+Projectile vs projectile collision with sound and spark 
+Super projectiles with slightly enlarged hitboxes
+Adjusted maximum height of backgrounds
+Ryu palette 5 changed
 
 =======================================================================================================
 0.28
