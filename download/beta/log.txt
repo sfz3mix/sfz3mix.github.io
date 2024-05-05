@@ -19,20 +19,24 @@ Blanka (Rolling Attack) Super Cancel if hit enemy
 Blanka (Vertical Rolling) Super Cancel if hit enemy 
 Karin (Mujin Kyaku) Super Cancel
 Karin (Ressen Chou) Super Cancel
-Karin (Ressen Ha) Super Cancel
+Karin (Yasha Gaeshi (Joudan)) Super Cancel
 Karin (Ressen Ha) command qcf + K
 Guy (Houzantou) Super Cancel
 Guy (Hayagake: Kubikari) Super Cancel
-Mika (Double Smash) new movimenet
+Mika (Double Smash) new moviment
 Mika (Double Smash) Super Cancel
 Rolento (Patriot Circle) Super Cancel
 Akuma lv3 super fire ball and super air fire ball
+Ryu (Joudan Sokutou Geri) new moviment
 Ryu (fire hadouken) replaced by (X hadouken)
+Ryu palette 5 changed
 Ken (Shouryuu Reppa) increased the distance a little
+Sakura (Sailor Punch) hold foward + hp
 Projectile vs projectile collision with sound and spark 
 Super projectiles with slightly enlarged hitboxes
 Adjusted maximum height of backgrounds
-Ryu palette 5 changed
+
+
 
 =======================================================================================================
 0.28
