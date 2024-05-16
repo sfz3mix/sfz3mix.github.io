@@ -2,7 +2,7 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.28d
+0.28f
 
 No back dash in the corner of the screen
 Akuma background with water and 3 palettes
@@ -19,24 +19,29 @@ Blanka (Rolling Attack) Super Cancel if hit enemy
 Blanka (Vertical Rolling) Super Cancel if hit enemy 
 Karin (Mujin Kyaku) Super Cancel
 Karin (Ressen Chou) Super Cancel
-Karin (Yasha Gaeshi (Joudan)) Super Cancel
+Karin (Yasha Gaeshi - Joudan) Super Cancel
+Karin (Yasha Gaeshi - Gedan) Super Cancel
 Karin (Ressen Ha) command qcf + K
 Guy (Houzantou) Super Cancel
 Guy (Hayagake: Kubikari) Super Cancel
-Mika (Double Smash) new moviment
-Mika (Double Smash) Super Cancel
+Mika (Double Smash) new move and Super Cancel
+Birdie (Chain Earthquake) new move and Super Cancel 
+Dan (Gadou Shoukou Ken) new move and Super Cancel (lv3 + 2 guardbars)
 Rolento (Patriot Circle) Super Cancel
 Akuma lv3 super fire ball and super air fire ball
-Ryu (Joudan Sokutou Geri) new moviment
-Ryu (fire hadouken) replaced by (X hadouken)
+Ryu (Fire Hadouken) replaced by (X hadouken)
+Ryu (Joudan Sokutou Geri) new move and Super Cancel
+Ryu (Shoryuken) no Super Cancel
 Ryu palette 5 changed
 Ken (Shouryuu Reppa) increased the distance a little
 Sakura (Sailor Punch) hold foward + hp
+Sakura (Hadouken) hold punch to charge
+Sakura (Hadouken) with speeds based on the button pressed
 Projectile vs projectile collision with sound and spark 
 Super projectiles with slightly enlarged hitboxes
 Adjusted maximum height of backgrounds
-
-
+Fix Invert Air Recovery mode(HP+HK)
+Fix overlapping voices in supers lv1,lv2,lv3
 
 =======================================================================================================
 0.28
