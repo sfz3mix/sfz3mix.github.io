@@ -2,7 +2,15 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.28f
+0.29a
+
+Fix Birdie spark (Chain Earthquake) with p2
+Fix Birdie (Bull Horn) command
+Fix select Ryu Palette 1 in Single mode 
+Fixed some conditions that generated slow downs 
+
+=======================================================================================================
+0.29
 
 No back dash in the corner of the screen
 Akuma background with water and 3 palettes
@@ -26,22 +34,29 @@ Guy (Houzantou) Super Cancel
 Guy (Hayagake: Kubikari) Super Cancel
 Mika (Double Smash) new move and Super Cancel
 Birdie (Chain Earthquake) new move and Super Cancel 
-Dan (Gadou Shoukou Ken) new move and Super Cancel (lv3 + 2 guardbars)
+Dan (Gadou Shoukou Ken) new move and Super Cancel (life <= 25%, lv3 + 2 guardbars)
+Dan (Shinkuu Gadouken) new sprites
 Rolento (Patriot Circle) Super Cancel
 Akuma lv3 super fire ball and super air fire ball
+Akuma (Tenma Gou Zankuu) new sprites
 Ryu (Fire Hadouken) replaced by (X hadouken)
 Ryu (Joudan Sokutou Geri) new move and Super Cancel
 Ryu (Shoryuken) no Super Cancel
+Ryu (held Shinkuu Hadouken) new sprites
+Ryu palette 4 changed
 Ryu palette 5 changed
+Ken palette 6 changed
 Ken (Shouryuu Reppa) increased the distance a little
 Sakura (Sailor Punch) hold foward + hp
 Sakura (Hadouken) hold punch to charge
 Sakura (Hadouken) with speeds based on the button pressed
+Bison+ hold foward + Punch for normals punches
 Projectile vs projectile collision with sound and spark 
 Super projectiles with slightly enlarged hitboxes
 Adjusted maximum height of backgrounds
 Fix Invert Air Recovery mode(HP+HK)
 Fix overlapping voices in supers lv1,lv2,lv3
+Fixed a few palettes by being electrocuted by Blanka
 
 =======================================================================================================
 0.28
