@@ -2,6 +2,15 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.30
+
+Fix Ryu (Joudan Sokutou Geri) bug not Guard
+Fix select Ryu Palette 1 in Single mode 
+Fix Birdie spark (Chain Earthquake) with p2
+Fix Birdie (Bull Horn) command
+Fixed some conditions that generated slow downs 
+
+=======================================================================================================
 0.29
 
 No back dash in the corner of the screen
