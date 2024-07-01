@@ -2,12 +2,24 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
+0.31
+
+Ryu can Upgrade to Ryu+ (Evil Ryu) 2x hadou + start
+Fixed Rose / Adon / Dan battle portraits palette
+Fixed super pause in Upgrade (Bison / Gen)
+Not life recover in Daigo Mode and blink palette fix
+Fix Dan (Gadou Shoukou Ken) 2p voice
+Fix (3 punches Push) bug in Just Defenced
+Fix Ryu backgroud tree palette
+Add Ryu+ theme in samples  
+
+=======================================================================================================
 0.30
 
 Fix Ryu (Joudan Sokutou Geri) bug not Guard
-Fix select Ryu Palette 1 in Single mode 
 Fix Birdie spark (Chain Earthquake) with p2
 Fix Birdie (Bull Horn) command
+Fix select Ryu Palette 1 in Single mode 
 Fixed some conditions that generated slow downs 
 
 =======================================================================================================
