@@ -2,7 +2,14 @@
 Street Fighter Zero 3 Mix (by Zero800)
 
 =======================================================================================================
-0.30d
+0.31b
+
+Fix Ryu+ upgrade animation glitch
+PushBlock (3 punches without hold foward) 
+New Background (Trainning Room). Hold lp+lk before the first round to force this super light scenario.
+
+=======================================================================================================
+0.31
 
 Ryu can Upgrade to Ryu+ (Evil Ryu) 2x hadou + start
 Fixed Rose / Adon / Dan battle portraits palette
@@ -11,6 +18,7 @@ Not life recover in Daigo Mode and blink palette fix
 Fix Dan (Gadou Shoukou Ken) 2p voice
 Fix (3 punches Push) bug in Just Defenced
 Fix Ryu backgroud tree palette
+Add Ryu+ theme in samples  
 
 =======================================================================================================
 0.30
